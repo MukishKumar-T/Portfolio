@@ -1,0 +1,62 @@
+header{
+    background-color: black;
+    text-align: center;
+}
+header h1{
+    color: aliceblue;
+    padding: 10px;
+}
+header nav ul{
+    padding: 10px;
+}
+header nav ul li{
+    color: rgb(218, 133, 58);
+    display: inline;
+    padding: 40px;
+}
+header nav ul li a{
+    color: sandybrown;
+    text-decoration: none
+}
+#Bio  {
+    text-align: center;
+    margin: 350px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+#Skill{
+    text-align: center;
+}
+#Skill ul li{
+    display: inline;
+}
+footer{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+footer h3{
+    padding: 20px;
+    padding-bottom: 1px;
+}
+footer div{
+    padding: 20px;
+    text-decoration: none;
+    color: white; 
+}
+#Portfolio{
+    text-align: center;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+#sp, #bp{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#pp{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: antiquewhite;
+}
